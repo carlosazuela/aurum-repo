@@ -1,0 +1,24 @@
+Architectures: iphoneos-arm64
+Codename: ios
+Components: main
+Date: Sat, 17 Oct 2026 10:26:41 +0000
+Description: Aurum - contenedores e identidad por cuenta para Instagram.
+Label: Aurum
+Origin: Aurum
+Suite: stable
+MD5Sum:
+ 046b7559e276965050e0cbbfaae43521 621 Packages
+ bcd2fee74533610f64e25112142ac26b 441 Packages.gz
+ c1375b62b566324bf46e269e1c234d17 516 Packages.xz
+SHA1:
+ d27244ad580577c2b9738338a9264a251ffadb5a 621 Packages
+ 70a258295fc530d94c1246f517d695bf3a5bdd4b 441 Packages.gz
+ 2a3b26c31c5e81bcdb8931b11c73076c1ee8628a 516 Packages.xz
+SHA256:
+ cd80e2fbca25d854d6f7cbfb50efe152901f936fa51f96cb3925b2320db94dbf 621 Packages
+ 326fdc05a0fef2ea6f24fd76e89db043022b00a207e6b8f2e97efeb59798b78f 441 Packages.gz
+ 1604ff4185ee0fd9b302782172ea7aa5967fe798d34afaba62cd41cf6456c992 516 Packages.xz
+SHA512:
+ f480331da6b5ca4e21f849982f3ba3ae036672e4da59dccbd27dbe75be3b60b8f73629dbc2a710014440af8275a61337e672a9544722736d5dda026ef7228541 621 Packages
+ 2c7d09002f1f5e3a58e0895e377cf8e9b0b4520e9e590650144e9eb0dc5b2b726c0311470b2d14b80a1e5d4c1b9537b10c1167285f03c54f22314cca1fe2f0cb 441 Packages.gz
+ a84162a5d98d874ce3384cde224ea5df6bb7756570bc75e8beb27b9d70eb058c59392a08a55ce6e124c5f9cfa73a7ffc4aa234d3da2c62068653f838c41654df 516 Packages.xz
