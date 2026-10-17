@@ -1,0 +1,3 @@
+# Repo APT/Sileo: nunca convertir saltos de linea ni tocar binarios.
+# Los hashes de Release se calculan sobre LF; CRLF rompe el repo.
+* -text
