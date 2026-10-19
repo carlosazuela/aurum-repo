@@ -1,14 +1,14 @@
 Package: com.mobilesuite.tweak
-Version: 0.6.19-1+debug
+Version: 0.6.19
 Architecture: iphoneos-arm64
 Maintainer: dev <dev@localhost>
-Installed-Size: 1380
+Installed-Size: 1036
 Depends: ellekit | firmware (>= 15.0), preferenceloader
 Filename: debs/com.mobilesuite.tweak_0.6.19_iphoneos-arm64.deb
-Size: 283216
-MD5sum: 892c5762098846de2e08dd56a367c3b8
-SHA1: 913c2b481208ec365638a13bde8094a108352b60
-SHA256: 9b2e91a523a32f5104b311ead0d556106d242c00dee928c3b27392bfa9469b9f
+Size: 206530
+MD5sum: 49183d0be1a20ab41e8774cf50275b65
+SHA1: 284140c6e5d295c8c2948919632178d2041fb542
+SHA256: 91d6f1554162293812806cf566903d3495185586586eb1fd8c24e18c5da91294
 Description: Aurum (antes MobileSuite): contenedores e identidad por cuenta para Instagram. Hooks dentro de la app, sin demonios.
 Tag: :: role::hacker
 Author: dev <dev@localhost>

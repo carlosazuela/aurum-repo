@@ -1,28 +1,28 @@
 Architectures: iphoneos-arm64
 Codename: ios
 Components: main
-Date: Mon, 19 Oct 2026 14:08:45 +0000
+Date: Mon, 19 Oct 2026 14:09:41 +0000
 Description: Aurum - contenedores e identidad por cuenta para Instagram.
 Label: Aurum
 Origin: Aurum
 Suite: stable
 MD5Sum:
- a03b0afd3635bac256414f3ea4ebd90a              622 Packages
- 7582560ca37c36e053cc6ea7874225dc              449 Packages.gz
- 536f827cef8bc7118a1e33efe7b40bd7              512 Packages.xz
- ee0bf4adf10871f840aa587fafbed351              213 Release
+ 3f398b6165c985d82aa917918bcd1d59              614 Packages
+ a4e59c53d7c5eba5d0ed030964de4aee              442 Packages.gz
+ 07e0162fcd7ea9d66892d791d776deb7              508 Packages.xz
+ d9fd75cbd677313db6fc0c113d01114d              213 Release
 SHA1:
- 2ddeacaa4eb650b4c9ba59afa98b4b5fef74ee95              622 Packages
- 594d6add6ffc80ef888aa329719aa814872512cc              449 Packages.gz
- ab1e3ce447c80aee111f3d97052b4abaf34d4b8b              512 Packages.xz
- 80c750c249cc948d3a6c1522e395cb032b1d3d65              213 Release
+ fb1a51beeca7b122590a1c2140f33a66491646eb              614 Packages
+ 3e36bbd0a80f2323619e540efea9070b54ac6207              442 Packages.gz
+ 63883377cf464b7c3eb34b9f48f418b95a56a89b              508 Packages.xz
+ 6c0b023d7f1d40731cb5ca57c0ecb6722cecdfa6              213 Release
 SHA256:
- 25f07b3d2e19fc229bc632b0ce76de6e5611becb7dcb0cf0753f5df7cdc308d3              622 Packages
- fa733019571338e5ddf0431b1a7129bf94d6513a916057d21476da588e6c3c81              449 Packages.gz
- a6bd96f7d56120e806898030a8e5d94dfbe0b72187508873c7a71c9aec53d387              512 Packages.xz
- 2d81d13d007dde6d39720aaa6acbf63091b7d2cbb2607eb3a417db81196c8056              213 Release
+ 8f761abd7b7dda5f3271eb36a71509cc5cb07f91bc0c2bfa072f13f034a8ab53              614 Packages
+ ed3195826d1b56f91e91f128148cf11b072be1dd8932ab250ca01318c6ad9b96              442 Packages.gz
+ a455fff10e69e6f7b42fbdd030a4e20b03f1a269dc2fa9a5aae93af12de32f41              508 Packages.xz
+ 46fe68275196609a8d47fbc0acabcafa0ee82e088197e01a80c49cc22df74f5e              213 Release
 SHA512:
- eb1845f6ab339acd52cadbf0fe9a9c7c7bec44b28df4c893958665f7d4f885eab852b68a058d6c9fe0cf634dbf2e6aef57507a92f9bf2550f097eab74034d1cd              622 Packages
- 811e2978de91c254f078cfa55d0316e8e865d5f85a48d39ab0cd4f7830decad8170b55c3ac20bc4949f6905e94b104d3909e65747a2566ebaf918d157660ef36              449 Packages.gz
- 77e49eca628b8b94ed384127bfface08ba7893deb66b96d2ec3e2f76c85e77b6de46c302418498d51d02b3fbd9b7907a9f16a7c0ebe0cfe2d3ad12b1f914e300              512 Packages.xz
- b5d83cf4e360e8e086c37d1c93deb1ad3a921ebc07c2e2885b7c36e056b9b5b89301bef1a67152e98235f44f3307c7461b5902f3758c213d18f2371166e2a9a8              213 Release
+ ea766eeec850de5e5b6528c88d3980e76e2dd922f8e21dbd657790b1262d271ff932bd85fb78183107cd798c0a3e0af0db02b5abbb38472f9e611b5489c26740              614 Packages
+ a4eabf45914c1137748b62d868b49b3d2f24b08f1a24447f04f3c721e000624741c9c813ef837b1778b5fa4896d5278408b5b6182c08a59d274ba86468850c4f              442 Packages.gz
+ 96cce7a46266d77ec358903cd9582a2b1284692ca8c6c2fa130a478ad029e08a9c98ef85a56aab65cb97fba8254731c7d867e033f722c6419a365bc1391739ff              508 Packages.xz
+ 4a56514e19761da989839e03fc22c7e7241e0c0d40cfe25b6441c5a26e6ec5d726927d69abecade17e843654665bd3fe880bf930b14dc9e01bcdfd034661e6db              213 Release
